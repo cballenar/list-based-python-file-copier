@@ -1,0 +1,3 @@
+./target-folder/01/my-file-1.jpg
+./target-folder/02/my-file-2-renamed.jpg
+./target-folder/03/my-file-3.jpg
